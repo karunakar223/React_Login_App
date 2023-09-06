@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.btnLogin {
+  color: #303150;
+  font-family: 'Roboto';
+  height: 45px;
+  width: 120px;
+  background-color: #ffffff;
+  font-weight: 500;
+  border-radius: 12px;
+}

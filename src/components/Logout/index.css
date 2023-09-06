@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.btnLoggedOut {
+  color: #303150;
+  font-family: 'Roboto';
+  font-weight: 500;
+  height: 45px;
+  width: 120px;
+  border-radius: 12px;
+}
